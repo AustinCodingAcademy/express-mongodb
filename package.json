@@ -1,0 +1,23 @@
+{
+  "name": "express-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinCodingAcademy/express-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinCodingAcademy/express-mongodb/issues"
+  },
+  "homepage": "https://github.com/AustinCodingAcademy/express-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  }
+}
